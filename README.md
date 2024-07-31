@@ -1,16 +1,30 @@
-### Hi there 👋
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+### 👨‍💻  **chuamaca** 
+Desarrollador Backend con sólida formación profesional y amplias capacidades técnicas para el análisis, creación y despliegue de aplicaciones web, de escritorio y servicios API REST.
 
+## Habilidades
 
-**chuamaca/chuamaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Lenguajes de Programación
 
-Here are some ideas to get you started:
+- **Microsoft Platform**: .NET Framework, .NET Core 5, Azure Functions, ASPX, MVC 5, WinForms, ORM EF, NPoco, Dapper.
+- **Java**: Programación Orientada a Objetos (POO), Spring Boot, Servlets JSP,
+- **SQL**: SQL Server, Oracle PLSQL, Postgresql, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Experiencia
+
+- **Desarrollo Web**: Creación y mantenimiento de aplicaciones web utilizando el patron MVC, Librerias de JS, Quendo UI.
+- **Servicios API REST**: Diseño e implementación de servicios API REST robustos y seguros.
+- **Aplicaciones de Escritorio**: Desarrollo y soporte de aplicaciones de escritorio eficientes.
+- **Bases de Datos**: Gestión y optimización de bases de datos con SQL Server y Oracle PLSQL.
+
+### Experiencia Profesional
+
+He trabajado en empresas importantes del rubro logístico, transporte y renting. Destacándome por mi capacidad de trabajo en equipo y mi contribución de valor agregado a la organización.
+
+## Valores
+
+- **Trabajo en Equipo**: Colaboración efectiva y comunicación clara para lograr objetivos comunes.
+- **Aprendizaje Continuo**: Fuerte interés y disposición para el aprendizaje continuo y la mejora profesional.
+
+## Contacto
+
+[GitHub](https://github.com/chuamaca)
