@@ -6,7 +6,7 @@ Desarrollador Backend con sólida formación profesional y amplias capacidades t
 ### Lenguajes de Programación
 
 - **Microsoft Platform**: .NET Framework, .NET Core 5, Azure Functions, ASPX, MVC 5, WinForms
-  - ORM Entity Framework, NPoco, Dapper.
+  - **ORM** Entity Framework, NPoco, Dapper.
 - **Java**: Programación Orientada a Objetos (POO), Spring Boot, Servlets JSP,
 - **SQL**: SQL Server, Oracle PLSQL, Postgresql, MySQL
 
